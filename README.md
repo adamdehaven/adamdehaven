@@ -2,7 +2,7 @@
 
 I'm a Software Engineer and UX/UI Designer. I design and build beautiful, easy-to-use interfaces and experiences based on data-driven strategies and the needs of the user.
 
-I code :computer:. I run :runner:. I bike :bike:.
+I [code :computer:](https://github.com/adamdehaven), [run :runner:](https://www.strava.com/athletes/adamdehaven), and  [bike :bike:](https://www.strava.com/athletes/adamdehaven).
 
 I share articles, code, and blog posts on [AdamDeHaven.com](https://www.adamdehaven.com/) on topics ranging from development to personal life .
 
