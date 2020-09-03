@@ -1,12 +1,10 @@
 # Hi, I'm Adam 👋
 
-<img align="left" width="150" height="150" src="https://github.com/adamdehaven/adamdehaven/blob/master/adam-octocat.png" alt="Octocat avatar">
+<img align="right" width="150" height="150" src="https://github.com/adamdehaven/adamdehaven/blob/master/adam-octocat.png" alt="Octocat avatar">
 
 I'm a full-stack web developer and <abbr title="User Experience">UX</abbr>/<abbr title="User Interface">UI</abbr> designer. I share code, quick tips, and blog posts on [AdamDeHaven.com](https://www.adamdehaven.com/) on topics ranging from development to personal life.
 
 I [code :computer:](https://github.com/adamdehaven), [run :runner:](https://www.strava.com/athletes/adamdehaven), and  [bike :bike:](https://www.strava.com/athletes/adamdehaven).
-
-<div style="clear:both;"></div>
 
 ### Find me on the web
 
