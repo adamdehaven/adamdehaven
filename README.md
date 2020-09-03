@@ -2,25 +2,14 @@
 
 I'm a Software Engineer and UX/UI Designer. I design and build beautiful, easy-to-use interfaces and experiences based on data-driven strategies and the needs of the user.
 
-<!--
-**adamdehaven/adamdehaven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I code :computer:. I run :runner:. I bike :bike:.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I share articles, code, and blog posts on [AdamDeHaven.com](https://www.adamdehaven.com/) on topics ranging from development to personal life .
 
 ### Find me on the web
 
-- [GitHub](https://github.com/adamdehaven)
-- [Twitter](https://twitter.com/adamdehaven)
+- [AdamDeHaven.com](https://www.adamdehaven.com/)
+- [@adamdehaven on Twitter](https://twitter.com/adamdehaven)
 - [Instagram](https://instagram.com/adamdehaven)
 - [LinkedIn](https://linkedin.com/in/adamdehaven)
 - [Dev.to](https://dev.to/adamdehaven)
