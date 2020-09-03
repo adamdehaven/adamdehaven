@@ -9,7 +9,7 @@ I [code :computer:](https://github.com/adamdehaven), [run :runner:](https://www.
 ### Find me on the web
 
 - [AdamDeHaven.com](https://www.adamdehaven.com/)
-- [@adamdehaven on Twitter](https://twitter.com/adamdehaven)
+- [Twitter](https://twitter.com/adamdehaven)
 - [Instagram](https://instagram.com/adamdehaven)
 - [LinkedIn](https://linkedin.com/in/adamdehaven)
 - [Dev.to](https://dev.to/adamdehaven)
