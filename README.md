@@ -1,4 +1,6 @@
-### Hi, I'm Adam 👋
+# Hi, I'm Adam 👋
+
+I'm a Software Engineer and UX/UI Designer. I design and build beautiful, easy-to-use interfaces and experiences based on data-driven strategies and the needs of the user.
 
 <!--
 **adamdehaven/adamdehaven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
