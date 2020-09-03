@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Adam 👋
 
 <!--
 **adamdehaven/adamdehaven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Find me on the web
+
+- [GitHub](https://github.com/adamdehaven)
+- [Twitter](https://twitter.com/adamdehaven)
+- [Instagram](https://instagram.com/adamdehaven)
+- [LinkedIn](https://linkedin.com/in/adamdehaven)
+- [Dev.to](https://dev.to/adamdehaven)
