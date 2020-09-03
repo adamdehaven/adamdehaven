@@ -6,6 +6,8 @@ I'm a full-stack web developer and <abbr title="User Experience">UX</abbr>/<abbr
 
 I [code :computer:](https://github.com/adamdehaven), [run :runner:](https://www.strava.com/athletes/adamdehaven), and  [bike :bike:](https://www.strava.com/athletes/adamdehaven).
 
+<div style="clear:both;"></div>
+
 ### Find me on the web
 
 - [AdamDeHaven.com](https://www.adamdehaven.com/)
