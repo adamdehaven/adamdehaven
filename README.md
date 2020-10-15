@@ -6,8 +6,8 @@ I'm a Software Engineer and <abbr title="User Experience">UX</abbr>/<abbr title=
 
 ### Find me on the web
 
-- <a href="https://www.adamdehaven.com/" target="_blank">AdamDeHaven.com</a>
-- <a href="https://twitter.com/adamdehaven" target="_blank">Twitter</a>
-- <a href="https://instagram.com/adamdehaven" target="_blank">Instagram</a>
-- <a href="https://linkedin.com/in/adamdehaven" target="_blank">LinkedIn</a>
-- <a href="https://dev.to/adamdehaven" target="_blank">Dev.to</a>
+- [AdamDeHaven.com](https://www.adamdehaven.com/)
+- [Twitter](https://twitter.com/adamdehaven)
+- [Instagram](https://instagram.com/adamdehaven)
+- [LinkedIn](https://linkedin.com/in/adamdehaven)
+- [Dev.to](https://dev.to/adamdehaven)
