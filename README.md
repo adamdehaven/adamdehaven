@@ -9,5 +9,4 @@ I'm a full-stack web developer and <abbr title="User Experience">UX</abbr>/<abbr
 - [AdamDeHaven.com](https://www.adamdehaven.com/)
 - [Twitter](https://twitter.com/adamdehaven)
 - [Instagram](https://instagram.com/adamdehaven)
-- [LinkedIn](https://linkedin.com/in/adamdehaven)
-- [Dev.to](https://dev.to/adamdehaven)
+- [LinkedIn](https://www.linkedin.com/in/adamdehaven)
