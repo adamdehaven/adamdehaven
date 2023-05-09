@@ -2,7 +2,7 @@
 
 <!-- <img align="right" width="200" height="200" src="https://github.com/adamdehaven/adamdehaven/blob/master/octocat-animated.gif" alt="Octocat avatar"> -->
 
-Senior Software Engineer at [Kong](https://konghq.com/).
+Staff Software Engineer at [Kong](https://konghq.com/).
 
 ### Find me on the web
 
