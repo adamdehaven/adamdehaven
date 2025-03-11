@@ -7,6 +7,6 @@ Staff Software Engineer at [Kong](https://konghq.com/).
 ### Find me on the web
 
 - [AdamDeHaven.com](https://www.adamdehaven.com/)
-- [BlueSky](https://bsky.app/profile/adamdehaven.com)
+- [Bluesky](https://bsky.app/profile/adamdehaven.com)
 - [X/Twitter](https://twitter.com/adamdehaven)
 - [LinkedIn](https://www.linkedin.com/in/adamdehaven)
